@@ -1,0 +1,7 @@
+name             'delayed-job'
+maintainer       'YOUR_NAME'
+maintainer_email 'YOUR_EMAIL'
+license          'All rights reserved'
+description      'Installs/Configures delayed-job'
+long_description 'Installs/Configures delayed-job'
+version          '0.1.0'
